@@ -1,7 +1,8 @@
 # Customer_Data_Analysis
-Customer Behavior Data Analytics project using Python Sql and Power Bi
+Customer Behavior Data Analytics project using Python ,Sql and Power BI
 Data Analytics Project
-Overview
+
+# Overview
 
 This project demonstrates a complete end-to-end data analytics workflow, from data preparation to business reporting. The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL analysis using PostgreSQL, interactive dashboard development in Power BI, and presentation of insights through a PowerPoint created with Claude.
 
@@ -17,7 +18,7 @@ Jupyter Notebook
 PostgreSQL
 Power BI
 Claude AI (for presentation creation)
-Project Workflow
+# Project Workflow
 1. Data Loading
 Imported the dataset into Python.
 Examined data structure and column information.
@@ -41,24 +42,23 @@ Built dashboards to present key insights.
 6. Report & Presentation
 Documented the analysis and findings.
 Created a PowerPoint presentation using Claude to summarize the project and insights.
-Dashboard
 
+# Dashboard
 The Power BI dashboard includes:
-
 Key Performance Indicators (KPIs)
 Trend Analysis
 Category-wise Performance
 Interactive Filters and Slicers
 Charts and Visualizations for Business Insights
-Results
-
+ 
+# Results
 The project successfully transformed raw data into meaningful insights through:
 
-Clean and structured data
-Exploratory data analysis
-SQL-based business analysis
-Interactive Power BI dashboard
-Professional report and presentation
+- Clean and structured data
+- Exploratory data analysis
+- SQL-based business analysis
+- Interactive Power BI dashboard
+- Professional report and presentation
 
 This workflow demonstrates practical skills in data analysis, SQL, data visualization, and business reporting.
 
