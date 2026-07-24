@@ -5,18 +5,20 @@ Customer Behavior Data Analytics project using Python ,Sql and Power BI
 
 This project demonstrates a complete end-to-end data analytics workflow, from data preparation to business reporting. The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL analysis using PostgreSQL, interactive dashboard development in Power BI, and presentation of insights through a PowerPoint created with Claude.
 
-The objective is to transform raw data into meaningful insights that support data-driven decision-making.
+## The objective is to transform raw data into meaningful insights that support data-driven decision-making.
 
-Dataset
-Dataset loaded and analyzed using Python
-Includes data cleaning and preprocessing
-Prepared for SQL analysis and dashboard creation
-Tools Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+# Dataset
+. Dataset loaded and analyzed using Python.
+. Includes data cleaning and preprocessing.
+. Prepared for SQL analysis and dashboard creation.
+
+# Tools Used
+Python (Pandas)
 Jupyter Notebook
 PostgreSQL
 Power BI
 Claude AI (for presentation creation)
+
 # Project Workflow
 1. Data Loading
 Imported the dataset into Python.
@@ -33,23 +35,32 @@ Prepared a clean dataset for analysis.
 4. SQL Analysis (PostgreSQL)
 Imported the cleaned dataset into PostgreSQL.
 Wrote SQL queries to answer business questions.
-Used filtering, grouping, aggregation, joins, and sorting for analysis.
-5. Power BI Dashboard
-Connected Power BI to the processed data.
-Created interactive visualizations and KPIs.
-Built dashboards to present key insights.
-6. Report & Presentation
+Used filtering, grouping, aggregation, Case, and sorting for analysis.
+
+5. Report & Presentation
 Documented the analysis and findings.
 Created a PowerPoint presentation using Claude to summarize the project and insights.
 
 # Dashboard
 The Power BI dashboard includes:
-Key Performance Indicators (KPIs)
+# Business Insight-
+Identifies which age groups contribute the highest revenue.
+Shows the largest customer segment.
+Helps create age-specific marketing campaigns.
+Measures the percentage of subscribed and non-subsscribed customers.
+Helps evaluate customer loyalty.
+Supports subscription growth strategies.
+# Key Performance Indicators (KPIs)
 Trend Analysis
 Category-wise Performance
 Interactive Filters and Slicers
-Charts and Visualizations for Business Insights
- 
+Charts and Visualizations for Business Insights.
+
+# Repository Structure-
+Dashboard:https://github.com/manashi86/Customer_Data_Analysis/blob/main/Customer_Behavior%20Dashboard.pbix 
+Image : <img width="593" height="331" alt="Screenshot 2026-07-08 134425" src="https://github.com/user-attachments/assets/58ff1820-e17e-4fb4-abe4-c57b838a07d0" />
+
+
 # Results
 The project successfully transformed raw data into meaningful insights through:
 
@@ -58,4 +69,7 @@ The project successfully transformed raw data into meaningful insights through:
 - SQL-based business analysis
 - Interactive Power BI dashboard
 - Professional report and presentation
+
+  # Feedback & Collaboration-
+  Your feedback is welcome~! If you'd like to collaborate on similar project or discuss data analysis opportunities, feel     free to reach out.
 
